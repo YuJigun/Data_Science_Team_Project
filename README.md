@@ -15,6 +15,6 @@
   
   3) Calculate and Show Precision and Recall
   <이미지 주소 첨부> <br>
-  https://ifh.cc/g/waaBDy.png
+  https://ifh.cc/v-waaBDy
   
     
