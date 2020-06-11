@@ -1,7 +1,7 @@
 # Data_Science_Team_Project
 
 ## 1. K-Nearest Neighbors (KNN) classification code review
-  <이미지 주소 첨부> <br>
+  <이미지 주소 첨부.> <br>
   https://ifh.cc/v-gV8UYV.q5czme
 
 ## 2. Update the existing code
@@ -14,7 +14,7 @@
   2) Use Manhattan distance instead of Euclidean distance
   
   3) Calculate and Show Precision and Recall
-   <이미지 주소 첨부> <br>
+   <이미지 주소 첨부.> <br>
     https://ifh.cc/v-waaBDy
   
     
